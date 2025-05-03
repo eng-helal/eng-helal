@@ -54,10 +54,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-helal/eng-helal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eng-helal/eng-helal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eng-helal/eng-helal/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGE2cTMyeHJzZXU0NmhzcjZjeWJsaHliZndlYXhlZGRrZGoxNHRrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eY1cJTWCuTC7l7IjtP/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eng-helal/count.svg?"  />
+</div>
 
 ###
